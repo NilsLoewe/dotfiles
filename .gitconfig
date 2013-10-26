@@ -1,0 +1,14 @@
+[user]
+	name = NilsLoewe
+	email = mail@nils-loewe.de
+
+[color]
+	status = auto
+	diff = auto
+	branch = auto
+	interactive = auto
+
+[alias]
+	co = checkout
+	st = status -s -u
+	br = branch -vv
