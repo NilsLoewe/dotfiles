@@ -12,3 +12,5 @@
 	co = checkout
 	st = status -s -u
 	br = branch -vv
+[push]
+	default = simple
