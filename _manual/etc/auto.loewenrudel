@@ -1,0 +1,9 @@
+music -fstype=cifs,uid=1000,credentials=$HOME/.smbcredentials ://192.168.1.251/music
+video -fstype=cifs,uid=1000,credentials=$HOME/.smbcredentials ://192.168.1.251/video
+public -fstype=cifs,uid=1000,credentials=$HOME/.smbcredentials ://192.168.1.251/public
+private -fstype=cifs,uid=1000,credentials=$HOME/.smbcredentials ://192.168.1.251/private
+home -fstype=cifs,uid=1000,credentials=$HOME/.smbcredentials ://192.168.1.251/home
+docs -fstype=cifs,uid=1000,credentials=$HOME/.smbcredentials ://192.168.1.251/docs_nils
+scans -fstype=cifs,uid=1000,credentials=$HOME/.smbcredentials ://192.168.1.251/Scans
+wissen -fstype=cifs,uid=1000,credentials=$HOME/.smbcredentials ://192.168.1.251/wissen
+upload -fstype=cifs,uid=1000,credentials=$HOME/.smbcredentials ://192.168.1.251/00_UPLOAD
